@@ -18,7 +18,7 @@
 	{{ content }}
 
 	<footer>
-		<p>&copy; Since 2012 <a href="http://github.com/lxyhust" target="_blank">github.com/lxyhust</a></p>
+		<p>&copy; Since 2012 <a href="http://{{ site.host }}" target="_blank">{{ site.host}}</a></p>
 	</footer>
 </div>
 
@@ -40,10 +40,10 @@
 	<div class="block block-about">
 		<h3>关于</h3>
 		<figure>
-			<img src="http://cn.gravatar.com/avatar/1cd8c12591616d8c22aaa624f8c07834?s=48" />
-			<figcaption><strong>mytharcher</strong></figcaption>
+			<img src="{{ site.avatar}}" width="64"/>
+			<figcaption><strong>lxyhust</strong></figcaption>
 		</figure>
-		<p>由于经常造各种轮子，所以自诩为前端造轮子工程师。各种形式主义，工具癖，规划控，纠结帝……以及重度拖延症患者。</p>
+		<p>关于。。。</p>
 	</div>
 	
 	<div class="block block-license">

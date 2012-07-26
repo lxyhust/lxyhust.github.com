@@ -7,22 +7,24 @@ exclude:
 
 host: lxyhust.com
 disqus_shortname: reedhong
-title: 小艳
+title: lxyhust
+subtitle: 我在这里
 ga: UA-2922788-2
+avatar: /images/avatar.png
 custom:
     category:
-        thinking: 闭门思考
-        problems: 问题记录
-        knowledge: 知识经验
+        beauty: 护肤点滴
+        work: 工作点滴
+        product: 产品点滴
     categories:
-      - name:  thinking
-        title: 闭门思考
+      - name:  beauty
+        title: 护肤点滴
 
-      - name:  problems
-        title: 问题记录
+      - name:  work
+        title: 工作点滴
 
-      - name:  knowledge
-        title: 知识经验
+      - name:  product
+        title: 产品点滴
 
 meta:
     authors:

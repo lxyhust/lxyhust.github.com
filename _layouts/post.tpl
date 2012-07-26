@@ -4,7 +4,7 @@ layout: page
 pageClass: page-type-post
 
 scripts:
-  - http://tech-justlog-me.disqus.com/embed.js
+  - http://lxyhust.disqus.com/embed.js
 
 ---
 
