@@ -1,5 +1,8 @@
-<html>
-<body>
-<h1>hello world!</h1>
-</body>
-</html>
+---
+layout: list
+---
+
+<!-- 首页即博客列表 -->
+{% assign list = site.posts %}
+{% assign preview = true %}
+{% include list.tpl %}

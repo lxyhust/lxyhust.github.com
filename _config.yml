@@ -1,0 +1,35 @@
+markdown: kramdown
+pygments: true
+safe: false
+permalink: /posts/:title.html
+exclude:
+  - README.md
+
+host: lxyhust.com
+disqus_shortname: reedhong
+title: 小艳
+ga: UA-2922788-2
+custom:
+    category:
+        thinking: 闭门思考
+        problems: 问题记录
+        knowledge: 知识经验
+    categories:
+      - name:  thinking
+        title: 闭门思考
+
+      - name:  problems
+        title: 问题记录
+
+      - name:  knowledge
+        title: 知识经验
+
+meta:
+    authors:
+      - name: lxyhust
+        email: lxyhust@gmail.com
+        gravatar: 1cd8c12591616d8c22aaa624f8c07834
+
+    gravatar:
+        base: http://www.gravatar.com/avatar/
+        param: ?s=
